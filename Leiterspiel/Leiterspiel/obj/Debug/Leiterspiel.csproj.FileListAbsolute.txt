@@ -1,0 +1,12 @@
+C:\Users\Alexandra.Briese\Documents\GitHub\Leiterspiel\Leiterspiel\Leiterspiel\bin\Debug\Leiterspiel.exe.config
+C:\Users\Alexandra.Briese\Documents\GitHub\Leiterspiel\Leiterspiel\Leiterspiel\obj\Debug\Brett.baml
+C:\Users\Alexandra.Briese\Documents\GitHub\Leiterspiel\Leiterspiel\Leiterspiel\obj\Debug\Brett.g.cs
+C:\Users\Alexandra.Briese\Documents\GitHub\Leiterspiel\Leiterspiel\Leiterspiel\obj\Debug\App.g.cs
+C:\Users\Alexandra.Briese\Documents\GitHub\Leiterspiel\Leiterspiel\Leiterspiel\obj\Debug\Leiterspiel_MarkupCompile.cache
+C:\Users\Alexandra.Briese\Documents\GitHub\Leiterspiel\Leiterspiel\Leiterspiel\obj\Debug\Leiterspiel.g.resources
+C:\Users\Alexandra.Briese\Documents\GitHub\Leiterspiel\Leiterspiel\Leiterspiel\obj\Debug\Leiterspiel.Properties.Resources.resources
+C:\Users\Alexandra.Briese\Documents\GitHub\Leiterspiel\Leiterspiel\Leiterspiel\obj\Debug\Leiterspiel.csproj.GenerateResource.Cache
+C:\Users\Alexandra.Briese\Documents\GitHub\Leiterspiel\Leiterspiel\Leiterspiel\bin\Debug\Leiterspiel.exe
+C:\Users\Alexandra.Briese\Documents\GitHub\Leiterspiel\Leiterspiel\Leiterspiel\bin\Debug\Leiterspiel.pdb
+C:\Users\Alexandra.Briese\Documents\GitHub\Leiterspiel\Leiterspiel\Leiterspiel\obj\Debug\Leiterspiel.exe
+C:\Users\Alexandra.Briese\Documents\GitHub\Leiterspiel\Leiterspiel\Leiterspiel\obj\Debug\Leiterspiel.pdb

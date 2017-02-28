@@ -1,0 +1,34 @@
+﻿<Window x:Class="Leiterspiel.Brett "
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="354" Width="525">
+    <Grid>
+        <StackPanel Height="31" Margin="0,0,0,289" Width="517">
+            <Border BorderThickness="0,0,0,1" BorderBrush="Black" MinWidth="517" MinHeight="31">
+                <Button Height="30" Width="50" HorizontalAlignment="Left" VerticalAlignment="Center">
+                    
+                </Button>
+            </Border>
+        </StackPanel>
+        <Grid Height="287" Margin="0,40,0,2" ShowGridLines="True" MinWidth="517" MinHeight="286 " MaxWidth="517" MaxHeight="286">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="figure" Grid.Column="3" Grid.Row="2" Width="20" Height="20" Click="Btn_Click">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Border CornerRadius="150" Background="Red"/>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+        </Grid>
+    </Grid>
+</Window>
